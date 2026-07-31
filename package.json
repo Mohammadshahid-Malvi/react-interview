@@ -1,0 +1,28 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This project for learning purpose.",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohammadshahid-Malvi/react-interview.git"
+  },
+  "author": "Mohammadshahid Malvi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohammadshahid-Malvi/react-interview/issues"
+  },
+  "homepage": "https://github.com/Mohammadshahid-Malvi/react-interview#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  },
+  "browserslist": [
+      "last 2 versions"
+  ]
+}
