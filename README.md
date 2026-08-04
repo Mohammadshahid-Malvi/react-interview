@@ -19,3 +19,14 @@
 - HTTPS
 - Tree Shaking - Remove unused code for you.if there is 100fn we use 2fn it remove remaining fn.
 - Different Dev and production bundles
+
+# import/export
+
+1. Default
+- export default Body;
+- import Body from "body";
+
+2. Named
+- export const Header;
+- import { Header } from "Header";
+
